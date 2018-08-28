@@ -1,0 +1,11 @@
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\bin\Debug\netcoreapp2.1\dreamTeam.deps.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\bin\Debug\netcoreapp2.1\dreamTeam.runtimeconfig.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\bin\Debug\netcoreapp2.1\dreamTeam.runtimeconfig.dev.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\bin\Debug\netcoreapp2.1\dreamTeam.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\bin\Debug\netcoreapp2.1\dreamTeam.pdb
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\obj\Debug\netcoreapp2.1\dreamTeam.csprojAssemblyReference.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\obj\Debug\netcoreapp2.1\dreamTeam.csproj.CoreCompileInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\obj\Debug\netcoreapp2.1\dreamTeam.AssemblyInfoInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\obj\Debug\netcoreapp2.1\dreamTeam.AssemblyInfo.cs
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\obj\Debug\netcoreapp2.1\dreamTeam.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\dreamTeam\obj\Debug\netcoreapp2.1\dreamTeam.pdb

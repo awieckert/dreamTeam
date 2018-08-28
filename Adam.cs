@@ -2,7 +2,7 @@ using System;
 
 namespace dreamTeam
 {
-  public class Adam
+  public class Adam : IPerson
   {
 
     public string Specialty {get; } = "JavaScirpt";
@@ -16,5 +16,6 @@ namespace dreamTeam
     public void Work(){
       Console.WriteLine($"{FullName} will beast mode through the {Specialty} on this project");
     }
+
   }
 }

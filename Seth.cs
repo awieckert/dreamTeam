@@ -2,7 +2,7 @@ using System;
 
 namespace dreamTeam
 {
-  public class Seth
+  public class Seth : IPerson
   {
     public string Specialty {get; } = "C#";
 
@@ -15,5 +15,6 @@ namespace dreamTeam
     public void Work(){
       Console.WriteLine($"{FullName} is about to lay down the law with some {Specialty} on this bad boy");
     }
+
   }
 }

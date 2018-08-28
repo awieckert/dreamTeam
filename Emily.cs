@@ -2,7 +2,7 @@ using System;
 
 namespace dreamTeam
 {
-  public class Emily
+  public class Emily : IPerson
   {
     public string Specialty {get; } = "CSS";
 
@@ -15,5 +15,6 @@ namespace dreamTeam
     public void Work(){
       Console.WriteLine($"{FullName} will use {Specialty} to style the shit out of this project");
     }
+
   }
 }

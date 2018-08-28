@@ -2,7 +2,7 @@ using System;
 
 namespace dreamTeam
 {
-  public class Tom
+  public class Tom : IPerson
   {
     public string Specialty {get; } = "CSS";
 
